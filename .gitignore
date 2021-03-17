@@ -1,0 +1,5 @@
+requirements.txt
+site.db
+.bash_profile
+__pycache__/
+.DS_Store
