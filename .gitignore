@@ -1,4 +1,9 @@
 site.db
 .bash_profile
 __pycache__/
-.DS_Store
+.
+ssh-key
+ssh-key.pubß
+.venv/
+venv/
+venv
