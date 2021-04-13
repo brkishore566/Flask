@@ -22,7 +22,7 @@ login, posts, filters, pagination, profile maintainanace...)
 <img width="1668" alt="Screenshot 2021-04-13 at 8 02 39 PM" src="https://user-images.githubusercontent.com/47842664/114572104-d48c7600-9c94-11eb-981a-7d5292b29784.png">
 
 * New Post:
-<img width="1668" alt="Screenshot 2021-04-13 at 8 02 39 PM" src="https://user-images.githubusercontent.com/47842664/114572278-f7b72580-9c94-11eb-9d5a-183b5320165d.png">
+<img width="1680" alt="Screenshot 2021-04-13 at 8 04 44 PM" src="https://user-images.githubusercontent.com/47842664/114572615-45339280-9c95-11eb-833f-e8d60a0297a4.png">
 
 * Home Page with User Filter(on click of any user from the home page):
 <img width="1679" alt="Screenshot 2021-04-13 at 8 04 12 PM" src="https://user-images.githubusercontent.com/47842664/114571941-ae66d600-9c94-11eb-8a45-e2c312981e70.png">
