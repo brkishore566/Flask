@@ -28,4 +28,4 @@ login, posts, filters, pagination, profile maintainanace...)
 <img width="1679" alt="Screenshot 2021-04-13 at 8 04 12 PM" src="https://user-images.githubusercontent.com/47842664/114571941-ae66d600-9c94-11eb-8a45-e2c312981e70.png">
 
 * Home Page with Pagination:
-* <img width="1680" alt="Screenshot 2021-04-13 at 8 04 21 PM" src="https://user-images.githubusercontent.com/47842664/114572020-c0487900-9c94-11eb-9143-92e16e538b1c.png">
+<img width="1680" alt="Screenshot 2021-04-13 at 8 04 21 PM" src="https://user-images.githubusercontent.com/47842664/114572020-c0487900-9c94-11eb-9143-92e16e538b1c.png">
