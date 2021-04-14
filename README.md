@@ -24,6 +24,9 @@ login, posts, filters, pagination, profile maintainanace...)
 * New Post:
 <img width="1680" alt="Screenshot 2021-04-13 at 8 04 44 PM" src="https://user-images.githubusercontent.com/47842664/114572615-45339280-9c95-11eb-833f-e8d60a0297a4.png">
 
+* Update/Delete Post:
+<img width="1680" alt="Screenshot 2021-04-14 at 3 43 51 PM" src="https://user-images.githubusercontent.com/47842664/114703073-77e79480-9d42-11eb-97a4-f6c2cd94d307.png">
+
 * Home Page with User Filter(on click of any user from the home page):
 <img width="1679" alt="Screenshot 2021-04-13 at 8 04 12 PM" src="https://user-images.githubusercontent.com/47842664/114571941-ae66d600-9c94-11eb-8a45-e2c312981e70.png">
 
