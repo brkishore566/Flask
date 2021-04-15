@@ -33,4 +33,4 @@ login, posts, filters, pagination, profile maintainanace...)
 * Home Page with Pagination:
 <img width="1680" alt="Screenshot 2021-04-13 at 8 04 21 PM" src="https://user-images.githubusercontent.com/47842664/114572020-c0487900-9c94-11eb-9143-92e16e538b1c.png">
 
-Similar Project is also implemented using Python-Django
+Similar Project is also implemented using Python-Django: https://github.com/brkishore566/Django
